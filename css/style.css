@@ -66,17 +66,6 @@ body {
   padding-left: 28px;
 }
 
-
-.aboutme {
-  width: 300px;
-  padding-top: 10px;
-}
-
-.headshot {
-  padding-top: 28px;
-}
-
-.resume {
-  padding-top: 28px;
-  padding-left: 28px;
+.desk {
+    width: 50px;
 }
