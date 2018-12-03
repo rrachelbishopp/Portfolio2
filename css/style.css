@@ -53,19 +53,17 @@ body {
 }
 
 .aboutme {
-  width: 300px;
-  padding-top: 10px;
+  position: absolute;
+  top: 25px;
+  right: 50%;
+  bottom: 25px;
+  left: 225px;
+  float: left;
+    min-width: 320px;
+    max-width: 500px;
+  text-align: center;
 }
 
-.headshot {
-  padding-top: 28px;
-}
-
-.resume {
-  padding-top: 28px;
-  padding-left: 28px;
-}
-
-.desk {
-    width: 50px;
+.background {
+  width: 50%;
 }
