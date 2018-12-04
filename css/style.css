@@ -72,10 +72,13 @@ body {
   bottom: 0;
 }
 
-.button {
-  color: #d8e7e0;
+.btn {
+    background-color: #d8e7e0; /* Green */
+    border-color: #565454;
+    color: #565454;
+    text-align: center;
 }
 
-.textarea {
-  width: 700px;
+.form-control {
+  width: 500px;
 }
