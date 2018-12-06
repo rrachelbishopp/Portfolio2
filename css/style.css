@@ -94,7 +94,11 @@ body {
   bottom: 0px;
   margin: auto;
   text-align: center;
-
+}
+#homeAbout {
+  position: fixed;
+  margin: auto;
+  text-align: center;
 }
 .btn {
     background-color: #d8e7e0; /* Green */
