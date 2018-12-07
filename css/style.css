@@ -114,5 +114,13 @@ body {
   text-align: center;
   margin: auto;
   width: 50%;
-  padding-top: 10px;
+  padding-top: 20px;
+}
+
+#resume {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding-top: 20px;
+  color: #d8e7e0;
 }
