@@ -72,29 +72,22 @@ body {
   }
 }
 
-.aboutme {
-  position: absolute;
-  top: 25px;
-  right: 50%;
-  bottom: 25px;
-  left: 225px;
-  float: left;
-    min-width: 330px;
-    max-width: 530px;
+#homeText {
   text-align: center;
+  margin: auto;
+  width: 50%;
+  padding-top: 20px;
+  bottom: 0px;
 }
-
 #homeImage {
   position: fixed;
+  margin: auto;
+  max-height: 400px;
+  padding-top: 20px;
   bottom: 0px;
-  margin: auto;
-  text-align: center;
+  align-content: center;
 }
-#homeAbout {
-  position: fixed;
-  margin: auto;
-  text-align: center;
-}
+
 .btn {
     background-color: #d8e7e0; /* Green */
     border-color: #565454;
@@ -122,5 +115,6 @@ body {
   margin: auto;
   width: 50%;
   padding-top: 20px;
-  color: #d8e7e0;
+  .a {color: #d8e7e0;
+  }
 }
